@@ -4,6 +4,7 @@ body {
   background-color: black;
   color: white;
   text-align: center;
+  display: block;
 }
 
 /* header */
@@ -26,12 +27,6 @@ h2 {
 .text {
   font-size: 21px;
   color: gray;
-}
-
-/* images */
-.img {
-  text-align: center;
-  display: block;
 }
 
 /* footer */
