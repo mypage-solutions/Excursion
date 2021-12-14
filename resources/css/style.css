@@ -29,8 +29,9 @@ h2 {
 }
 
 /* images */
-#img {
-  object-fit: contain;
+.img {
+  object-fit: scale-down;
+  display: block;
 }
 
 /* footer */
