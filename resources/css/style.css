@@ -4,7 +4,6 @@ body {
   background-color: black;
   color: white;
   text-align: center;
-  object-fit: contain;
 }
 
 /* header */
@@ -27,6 +26,11 @@ h2 {
 .text {
   font-size: 21px;
   color: gray;
+}
+
+/* images */
+#img {
+  object-fit: contain;
 }
 
 /* footer */
