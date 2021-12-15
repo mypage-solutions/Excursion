@@ -1,8 +1,20 @@
 @media (min-width: 1px) and (max-width: 1082px) {
-  .image {
+  .image-camp {
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .image-phone {
+    width: 60%;
+  }
+
+  #h1-size {
+    font-size: 30px;
+  }
+
+  #h2-size {
+    font-size: 21px;
   }
 }
 
