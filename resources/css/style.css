@@ -1,5 +1,6 @@
 @media (min-width: 1px) and (max-width: 1082px) {
-  .image-camp {
+  .image {
+    width: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
